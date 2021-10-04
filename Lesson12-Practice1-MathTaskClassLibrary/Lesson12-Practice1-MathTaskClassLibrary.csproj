@@ -1,0 +1,8 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>Lesson12_Practice1_MathTaskClassLibrary</RootNamespace>
+  </PropertyGroup>
+
+</Project>
